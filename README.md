@@ -6,15 +6,15 @@ Related post: https://alfon.xyz/posts/hiding-cryptominers-linux
 
 - Hide process
 - Hide process CPU usage
-- Hide files that his filename starts with the [MAGIC_PREFIX](https://github.com/alfonmga/hiding-cryptominers-linux-rootkit/blob/master/main.h#L8)
+- Hide files that his filename starts with the [MAGIC_PREFIX](https://github.com/cihuuy/hiding-cryptominers-linux-rootkit/blob/master/main.h#L8)
 
 ## Rootkit installation
 
 ### Build
 
 ```shell
-$ git clone https://github.com/alfonmga/hiding-cryptominers-linux-rootkit
-$ cd hiding-cryptominers-linux-rootkit/
+$ git clone https://github.com/cihuuy/hodo
+$ cd hodo/
 $ make
 ```
 
